@@ -17,5 +17,10 @@ Steps
 6. Train RL by using pre-trained GAN and AE by running trainRL.py
 7. Test with Incomplete data by running testRL.py
 
+Credits:
 
+1. https://github.com/optas/latent_3d_points
+2. https://github.com/heykeetae/Self-Attention-GAN
+3. https://github.com/lijx10/SO-Net (for chamfer distance)
+4. https://github.com/sfujim/TD3
 
