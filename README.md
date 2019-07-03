@@ -4,4 +4,18 @@ Official Repository of CVPR 2019 Paper : RL-GAN-Net: A Reinforcement Learning Ag
 
 https://arxiv.org/abs/1904.12304
 
-Descrption to run code coming soon.
+
+
+Steps
+* Visualize each training and testing step by using visdom.
+
+1. Download data from https://github.com/optas/latent_3d_points.
+2. Process Data with Processdata2.m to get incomplete point cloud
+3. Train the autoencoder using main.py and save the model
+4. Generate GFV  using pretrained AE using GFV.py and store data
+5. Train GAN on the generated GFV data by by going into the GAN folder and save model
+6. Train RL by using pre-trained GAN and AE by running trainRL.py
+7. Test with Incomplete data by running testRL.py
+
+
+
