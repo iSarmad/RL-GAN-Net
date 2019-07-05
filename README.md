@@ -28,3 +28,16 @@ Credits:
 3. https://github.com/lijx10/SO-Net (for chamfer distance)
 4. https://github.com/sfujim/TD3
 
+
+
+If you use this work for your projects, please take the time to cite our CVPR paper:
+
+```
+@InProceedings{Sarmad_2019_CVPR,
+author = {Sarmad, Muhammad and Lee, Hyunjoo Jenny and Kim, Young Min},
+title = {RL-GAN-Net: A Reinforcement Learning Agent Controlled GAN Network for Real-Time Point Cloud Shape Completion},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+```
