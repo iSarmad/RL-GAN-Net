@@ -6,6 +6,10 @@ https://arxiv.org/abs/1904.12304
 
 This repository is still under constructions.
 
+Requirements:
+
+The packages in my Conda Environment are listed in Requirement_Conda.txt and Requirements_pip.txt files. Only install the ones needed or you can clone the whole environment. 
+
 Steps
 * Visualize each training and testing step by using visdom.
 
