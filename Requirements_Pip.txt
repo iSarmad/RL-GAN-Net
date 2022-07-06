@@ -22,7 +22,7 @@ glfw==1.7.0
 grpcio==1.12.1
 gym==0.10.5
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.7
 imageio==2.3.0
 ipdb==0.11
