@@ -44,7 +44,7 @@ Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.1.0
 matplotlib==2.2.2
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.0.5
 mkl-random==1.0.1
 msgpack==0.6.0
